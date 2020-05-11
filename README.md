@@ -3,13 +3,13 @@
 Steps for resolving lab:
 - Create a team of 4 or 5 students;
 - Create a git repository and add team members to it;
-- Choose one of the samples c1, c2, ..., c5 as the starting point for your project and copy cX-sample content to your repository;
+- Choose one of the samples c2, c2, ..., c5 as the starting point for your project and copy cX-sample content to your repository;
 - Create a private post on piazza and share it with instructors presenting repository link and team members;
 - For selected project:
     * create UML Use-Case diagram;
     * create UML class diagram;
     * fix the implementation so that all tests pass;
-    * design a minimal user interface (UI) for the program and implement it using Swing;
+    * design a minimal user interface (UI) for the program and implement it using Swing - UI should be implemented for one fo the last two packages or a combination of last to packages functions;
     * try to apply MVC design pattern in implementing the UI;
 - Try to work as a team and each member of the team to resolve part of the problem.
 
