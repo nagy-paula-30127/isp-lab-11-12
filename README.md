@@ -5,7 +5,7 @@ Steps for resolving lab:
 - Create a git repository and add team members to it;
 - Repository should be public;
 - Choose one of the samples c2, c3, c4, c5 as the starting point for your project and copy cX-sample content to your repository;
-- Create a private post on piazza and share it with instructors presenting repository link and team members;
+- Fill spreadsheet with team members and repository: https://docs.google.com/spreadsheets/d/1fLTUWSR354emmx9H2ViY6v53BF_SxXv9e3FlFNVS-Xo/edit#gid=0
 - For selected project:
     * fix the implementation so that all tests pass;
     * design a minimal user interface (UI) for the program and implement it using Swing - UI should be implemented for one of the last two packages or a combination of last to packages functions (c2 -> packages 3,4,5 c3 -> packages 3,4 c4 -> packages 3,4 c5 -> packages 3,4);
