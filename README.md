@@ -18,4 +18,3 @@ Steps for resolving lab:
 
 **Note 2 - Please notice that for this lab there is NO assignment template and you will need to create repository from scratch in github.** 
 
-Nagy Paula
